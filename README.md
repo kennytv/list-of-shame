@@ -5,7 +5,7 @@ A non exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Yatopia](https://github.com/YatopiaMC/Yatopia), "The combined power of Paper forks for maximum instability and unmaintainablity!" - Messy, tossed salad of people that haven't even really understood the patch system.
 * [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX), "`System.out.println("[SkinsRestorer] ")`, `try {} catch (Exception e) {}`" - The cleanest code it has comes from one-time contributors.
 * [FlameCord](https://www.mc-market.org/resources/13492/), "Are you sick of using sane, open-source software? Try this mcmarket Travertine fork!" - While it has some nice workarounds to vulnerabilities, it's done on the wrong layer and contains some rather weird changes as well.
-* [EntityTrackerFixer](https://github.com/Esmorall/EntityTrackerFixer), "Minecraft tracks alot of entities - so lets disable that, who needs entities to work as intended anyway ;^)" If this plugin fixes your problems, you are certainly doing something wrong.
+* [EntityTrackerFixer](https://github.com/Esmorall/EntityTrackerFixer), "Minecraft tracks alot of entities - so lets disable that, who needs entities to work as intended anyway ;^)" - If this does fix your issues, you are certainly doing something wrong.
 
 * Literally any closed-source (paid) 1.8 Paper fork on mcmarket, "\[Optimized\] \[Cannons\] \[Everything is multithreaded\]" - Mostly just copied off each other with little to no actual work involved or improvements done, with many even introducing major bugs or including security breaches.
 
