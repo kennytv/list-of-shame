@@ -6,6 +6,7 @@ A non exhaustive list of projects to be known to have rather unpleasant vibes.
 * [FlameCord](https://www.mc-market.org/resources/13492/), "Are you sick of using sane, open-source software? Try this mcmarket Travertine fork!" - While it has some nice workarounds to vulnerabilities, it's done on the wrong layer and contains some rather weird changes as well.
 * [EntityTrackerFixer](https://github.com/Esmorall/EntityTrackerFixer), "Minecraft tracks alot of entities - so let's disable that, who needs entities to work as intended anyway ;^)" - Just use Paper, please. It fixes the issue without producing even more problems.
 * Literally any closed-source (paid) 1.8 Paper fork on mcmarket, "\[Optimized\] \[Cannons\] \[Everything is multithreaded\]" - Mostly just copied off each other with little to no actual work involved or improvements done, with many even introducing major bugs or including security breaches.
+* [Kangarko](https://github.com/kangarko), "Become self-hated now" - Offers overprized Spigot/Java courses (use [JetBrains Academy](https://www.jetbrains.com/academy/) instead), uses every place humanly possible to advertise his service, and likes to silently push blame towards other people.
 
 ## Disclaimer
 This list does not mean you *must not* use any of the above mentioned,
