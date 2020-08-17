@@ -8,6 +8,9 @@ A non exhaustive list of projects to be known to have rather unpleasant vibes.
 * Literally any closed-source (paid) 1.8 Paper fork on mcmarket, "\[Optimized\] \[Cannons\] \[Everything is multithreaded\]" - Mostly just copied off each other with little to no actual work involved or improvements done, with many even introducing major bugs or including security breaches.
 * [Kangarko](https://github.com/kangarko), "Become self-hated now" - Offers overprized Spigot/Java courses (use [JetBrains Academy](https://www.jetbrains.com/academy/) instead), uses every place humanly possible to advertise his service, and likes to silently push blame towards other people.
 * [Spartan](https://www.spigotmc.org/resources/spartan-advanced-anti-cheat-hack-blocker.25638/), "A premium product with setting your server on fire in mind, made by ad spammers" - Checks are largely bypassable and the plugin page has such awesome quotes as "A Minecraft server uses just one CPU core".
+* [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/), "Use one of clearlag's many utilities to make lag" - Causes more lag than it removes.
+* [CMI](https://www.spigotmc.org/resources/cmi-270-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/), "Over 280 must have bugs for your server!" - A substitue for Essentials, but doesn't patch bugs.
+* [Songoda](https://songoda.com/marketplace) "The one stop sketchy marketplace for Minecraft plugins" - The plugins are bad and songoda as a business has engaged in sketchy practices. In fact, they're banned by Paypal.
 
 ## Disclaimer
 This list does not mean you *must not* use any of the above mentioned,
