@@ -7,6 +7,7 @@ A non exhaustive list of projects to be known to have rather unpleasant vibes.
 * [EntityTrackerFixer](https://github.com/Esmorall/EntityTrackerFixer), "Minecraft tracks alot of entities - so let's disable that, who needs entities to work as intended anyway ;^)" - Just use Paper, please. It fixes the issue without producing even more problems.
 * Literally any closed-source (paid) 1.8 Paper fork on mcmarket, "\[Optimized\] \[Cannons\] \[Everything is multithreaded\]" - Mostly just copied off each other with little to no actual work involved or improvements done, with many even introducing major bugs or including security breaches.
 * [Kangarko](https://github.com/kangarko), "Become self-hated now" - Offers overprized Spigot/Java courses (use [JetBrains Academy](https://www.jetbrains.com/academy/) instead), uses every place humanly possible to advertise his service, and likes to silently push blame towards other people.
+* [Spartan](https://www.spigotmc.org/resources/spartan-advanced-anti-cheat-hack-blocker.25638/), "There Hacker everywhere so let's deal with them once and for all with this advance Anticheat! - We does not optimize our check so your server wil be on fire 24/7, Our check is easily bypassable so bare with us even it cost you money we still not going to fix this issue *yet*
 
 ## Disclaimer
 This list does not mean you *must not* use any of the above mentioned,
