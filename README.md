@@ -11,6 +11,7 @@ A non exhaustive list of projects to be known to have rather unpleasant vibes.
 * [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/), "Use one of clearlag's many utilities to make lag" - Causes more lag than it removes.
 * [CMI](https://www.spigotmc.org/resources/cmi-270-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/), "Over 280 must have bugs for your server!" - A substitue for Essentials, but doesn't patch bugs.
 * [Songoda](https://songoda.com/marketplace) "The one stop sketchy marketplace for Minecraft plugins" - The plugins are bad and songoda as a business has engaged in sketchy practices. In fact, they're banned by Paypal.
+* [1.8] "An outdated version of Minecraft with mindless pvp" - Hasn't been updated in 5 years.
 
 ## Disclaimer
 This list does not mean you *must not* use any of the above mentioned,
