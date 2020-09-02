@@ -11,6 +11,7 @@ A non exhaustive list of projects to be known to have rather unpleasant vibes.
 * [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/), "Use one of clearlag's many utilities to make lag" - Causes more lag than it removes and doesn't even know its own name.
 * [CMI](https://www.spigotmc.org/resources/cmi.3742/), "Over 280 must have bugs for your server!" - A (non-)substitue for EssentialsX, but it doesn't patch bugs.
 * [Songoda](https://songoda.com/marketplace), "The one top sketchy marketplace for Minecraft plugins" - The plugins are *oof* and Songoda as a business has engaged in sketchy practices.
+* [NeruxVace](https://neruxvace.net/), "Money ain't got wings!" - Small german minigames network that won't let anything stand in the way of its urge for "success". Whether it's paying developers, or simply following up on (legal-)agreements - Noah Kemm doesn't give a damn.
 * 1.8, "An outdated version of Minecraft with mindless pvp" - Hasn't been updated in 5 years.
 
 ## Disclaimer
