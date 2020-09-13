@@ -14,6 +14,7 @@ A non exhaustive list of projects to be known to have rather unpleasant vibes.
 * [NeruxVace](https://neruxvace.net/), "Money ain't got wings!" - Small german minigames network that won't let anything stand in the way of its urge for "success". Whether it's paying developers, or simply following up on (legal-)agreements - Noah Kemm doesn't give a damn.
 * [Cityweebstret](https://github.com/Sauilitired), "Why did my phone autocorrect uwu to hey" - A bad bully; not just bad, but bad at bullying >:(
 * 1.8, "An outdated version of Minecraft with mindless pvp" - Hasn't been updated in 5 years.
+* [ViaVersion](https://github.com/ViaVersion/ViaVersion) "1.8-1.16 KitPVP" - Enables servers to stay on unsupported versions of Minecraft while allowing newer versions to join. Not a bad plugin, but used as a tool for evil.
 
 ## Disclaimer
 This list does not mean you *must not* use any of the above mentioned, or that any of them are *truly* horrible,
