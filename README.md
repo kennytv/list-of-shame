@@ -15,6 +15,7 @@ A non exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Cityweebstret](https://github.com/Sauilitired), "Why did my phone autocorrect uwu to hey" - A bad bully; not just bad, but bad at bullying >:(
 * 1.8, "An outdated version of Minecraft with mindless pvp" - Hasn't been updated in 5 years.
 * [ViaVersion](https://github.com/ViaVersion/ViaVersion) "1.8-1.16 KitPVP" - Enables servers to stay on unsupported versions of Minecraft while allowing newer versions to join. Not a bad plugin, but used as a tool for **evil**.
+* [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/) Like ViaBackwards, just with more **evil**.
 
 ## Disclaimer
 This list does not mean you *must not* use any of the above mentioned, or that any of them are *truly* horrible,
