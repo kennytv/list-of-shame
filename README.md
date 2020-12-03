@@ -16,7 +16,7 @@ A non exhaustive list of projects to be known to have rather unpleasant vibes.
 * 1.8, "An outdated version of Minecraft with mindless pvp" - Hasn't been updated in 5 years.
 * [ViaVersion](https://github.com/ViaVersion/ViaVersion) "1.8-1.16 KitPVP" - Enables servers to stay on unsupported versions of Minecraft while allowing newer versions to join. Not a bad plugin, but used as a tool for **evil**.
 * [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/) - Like ViaBackwards, just with more **evil**.
-* [Slimefun](https://github.com/Slimefun/Slimefun4) "It offers everything you could possibly imagine. From taking 70% of your tick to clearing inventories at random!" - Tries to turn your server in an FTB modpack, and fails miserably due to incompetent devs.
+* [Slimefun](https://github.com/Slimefun/Slimefun4) "It offers everything you could possibly imagine. From taking 70% of your tick to clearing inventories at random!" - Tries to turn your server in an FTB modpack, and does not achieve it's goal due to developers not knowing what they are doing.
 
 ## Disclaimer
 This list does not mean you *must not* use any of the above mentioned, or that any of them are *truly* horrible,
