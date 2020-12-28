@@ -18,6 +18,7 @@ A non exhaustive list of projects to be known to have rather unpleasant vibes.
 * [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/) - Like ViaBackwards, just with more **evil**.
 * [Slimefun](https://github.com/Slimefun/Slimefun4) "It offers everything you could possibly imagine. From taking 70% of your tick to clearing inventories at random!" - Tries to turn your server in an FTB modpack, and does not achieve its goal due to developers not knowing what they are doing.
 * [Fast Async WorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932) "It's async, so that means it's better!" - Aims to be a fast fork of WorldEdit, it sure is fast, fast at breaking things.
+* [AsyncWorldEdit](https://www.spigotmc.org/resources/asyncworldedit.327/) "It's async but is slower." - Very useful for small projects in production but not for very large builds. He needs [WorldEdit](https://dev.bukkit.org/projects/worldedit)
 
 ## Disclaimer
 This list does not mean you *must not* use any of the above mentioned, or that any of them are *truly* horrible,
