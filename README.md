@@ -8,7 +8,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * Literally any closed-source (paid) 1.8 Paper fork on mcmarket, "\[Optimized\] \[Cannons\] \[Everything is multithreaded\]" - Mostly just copied off each other with little to no actual work involved or improvements done, with many even introducing major bugs or including security breaches.
   - Hyperion - someone [tried to exclude them from the above bullet point](https://github.com/KennyTV/list-of-shame/pull/15), then [tried to remove this mention of their original PR in a new PR](https://github.com/KennyTV/list-of-shame/pull/17), while also having a miner running on their GitHub Pages.
 * [Kangarko](https://github.com/kangarko), "Become self-hated now" - Who needs well-made, free Java courses like [JetBrains Academy](https://www.jetbrains.com/academy/) anyways, if you can use Kangarko's overpriced one! Uses every place humanly possible to advertise his service, and likes to silently push blame towards other people.
-  - Latest victim for blame: [SpigotMC themself](https://www.spigotmc.org/threads/478408/)
+  - Latest victim of Kangarko's blame: [All of SpigotMC](https://www.spigotmc.org/threads/478408/)
 * [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/), "Use one of ClearLagg's many utilities to make lag" - Causes more lag than it removes and doesn't even know its own name.
 * [CMI](https://www.spigotmc.org/resources/cmi.3742/), "Over 280 must have bugs for your server!" - A (non-)substitute for EssentialsX for the people that think paid=good.
 * [Songoda](https://songoda.com/marketplace), "The one top sketchy marketplace for Minecraft plugins" - Because it doesn't get more sketchy than Songoda.
