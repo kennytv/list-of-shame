@@ -18,7 +18,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Slimefun](https://github.com/Slimefun/Slimefun4) "It offers everything you could possibly imagine. From taking 70% of your tick to clearing inventories at random!" - Tries to turn your server in an FTB modpack... *tries to*.
 * [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932) "It's async, so that means it's better!" - Aims to be a fast fork of WorldEdit, it sure is fast, fast at breaking things.
 * [IllegalStack](https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/) "Dupe & Exploit fixer" - Actually introduces dupes, eats 15% of your ticks, and likes to do wonky things like removing nametags of players and entities.
-* [EpicWorldGenerator](https://www.spigotmc.org/resources/epicworldgenerator-1-15-1-16-4.8067/) "Get the best lagg you can buy for money" - Because it sure is worth to spend $40 (Now finally down to $20) for something that has several free alternatives with same features.
+* [EpicWorldGenerator](https://www.spigotmc.org/resources/epicworldgenerator.8067/) "Get the best lagg you can buy for money" - Because it sure is worth spending $20 (originally $40) for something that has several free alternatives with the same features.
 
 ## Disclaimer
 This list does not mean you *must not* use any of the above mentioned, or that any of them are *truly* horrible,
