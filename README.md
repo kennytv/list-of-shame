@@ -1,3 +1,5 @@
+https://kennytv.github.io/list-of-shame
+
 ## List Of Shame
 A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 
