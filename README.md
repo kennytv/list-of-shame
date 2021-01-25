@@ -21,6 +21,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [IllegalStack](https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/) "Dupe & Exploit fixer" - Actually introduces dupes, eats 15% of your ticks, and likes to do wonky things like removing nametags of players and entities.
 * [EpicWorldGenerator](https://www.spigotmc.org/resources/epicworldgenerator.8067/) "Get the best lagg you can buy for money" - Because it sure is worth spending $20 (originally $40) for something that has several free alternatives with the same features.
   - Let's also point out the fact that it is [based almost entirely on code directly stolen from a free mod](https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/) ([Realistic World Gen](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3))
+* [TeslaAntiCheat](https://www.spigotmc.org/resources/%E3%80%90tesla-anti-cheat%E3%80%91-%E3%80%90new-guis-auto-ban-1-8-1-12%E3%80%91%E3%80%90sale-50-%E3%80%91.32239/) "Protect your server from cheaters! As well as regular players and performance." - Anticheat solution made in Skript, inefficiency on top of inneficiency. If it isn't a sin by itself the fact that it is paid makes it worse. If it doesn't destroy your server the three dependencies it requires surely will.
 
 ## Disclaimer
 This list does not mean you *must not* use any of the above mentioned, or that any of them are *truly* horrible,
