@@ -24,8 +24,18 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [EpicWorldGenerator](https://www.spigotmc.org/resources/epicworldgenerator.8067/), "Get the best lagg you can buy for money" - Because it sure is worth spending $20 (originally $40) for something that has several free alternatives with the same features.
   - Let's also point out the fact that it is [based almost entirely on code directly stolen from a free mod](https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/) ([Realistic World Gen](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3))
 
+## Software Alternatives / Info Threads
+This section is the only part of this page you should *actually* take somewhat seriously.
+
+* "Super optimized all-in-one server" alternatives: Paper, Tuinity, Purpur (most performant and properly stable will likely be Tuinity)
+* Anti-lag plugin alternative setup and info: https://www.spigotmc.org/threads/283181/ and https://www.spigotmc.org/threads/283181/page-20#post-3684550
+* Dupe fixer alternative: Use Paper (or one of its **sane** forks) and stay on the latest version of Minecraft... unless you run a creative server, then plugins make sense to clear data-spammed items
+* EWG info/alternatives: https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/
+* SkinsRestorer alternative: *For the love of god, **don't use offline mode***
+* CMI alternative: EssentialsX, given its free, open source, and you are less likely to run into problems, or will have them fixed faster... tho there is nothing wrong with liking CMI how it is, either
+
 ## Disclaimer
-This list does not mean you *must not* use any of the above mentioned, or that any of them are *truly* horrible,
-but just that some random person on the internet considers some of their (design) choices questionable.
-Take it lightly and please correct any plainly wrong information. :) 
+This list does not mean you *must not* use any of the above mentioned, or that all of them are *truly* horrible,
+but just that random people on the internet consider some of their (design) choices questionable.
+Take it lightly and please correct any plainly wrong information.
 Have a nice day, k thx bai.
