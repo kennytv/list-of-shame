@@ -16,7 +16,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Songoda](https://songoda.com/marketplace), "The one top sketchy marketplace for Minecraft plugins" - Because it doesn't get more sketchy than Songoda.
 * [NeruxVace](https://neruxvace.net/), "Money ain't got wings!" - Minigames network that won't let anything stand in the way of its urge for "success". Whether it's paying developers, or simply following up on (legal-)agreements - Noah Kemm doesn't need any of that!
 * [Mortal Mines](https://mortalmines.com/), Network that mass DM bots discord servers to gain players for a pay2win prison server. Alexander Didio (aka LizardZ or Energy) has owned and killed OPMines, Sparkverse, WickedSkies, FrostyMC, and Jurassic Mines after two months once their playerbase has been milked dry.
-* 1.8, "An outdated version of Minecraft with more security issues than features!" - Hasn't been updated in [over 6 years](https://howoldisminecraft188.today/).
+* 1.8, "An outdated version of Minecraft with more security issues than features!" - Hasn't been updated in [over 7 years](https://howoldisminecraft188.today/).
 * [ViaVersion](https://github.com/ViaVersion/ViaVersion), "1.8-1.16 KitPVP" - Enables **the evil** to continue to live.
 * [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/), - Like ViaBackwards, just with more **evil**.
 * [Slimefun](https://github.com/Slimefun/Slimefun4), "It offers everything you could possibly imagine. From taking 70% of your tick to clearing inventories at random!" - Tries to turn your server in an FTB modpack... *tries to*.
@@ -25,6 +25,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [IllegalStack](https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/), "Dupe & Exploit fixer" - Actually introduces dupes, eats 15% of your ticks, and likes to do wonky things like removing nametags of players and entities.
 * [EpicWorldGenerator](https://www.spigotmc.org/resources/epicworldgenerator.8067/), "Get the best lagg you can buy for money" - Because it sure is worth spending $20 (originally $40) for something that has several free alternatives with the same features.
   - Let's also point out the fact that it is [based almost entirely on code directly stolen from a free mod](https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/) ([Realistic World Gen](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3))
+* [PM2](https://www.spigotmc.org/members/pm2.597961/), "Update your plugin 500 times with single additions and fixes!" - Good review and resource bumping.
 * [SunLight](https://www.spigotmc.org/resources/sunlight-%E2%80%A2-server-management-plugin-essentials-1-14-1-16.67733/) - "Advanced server management plugin with all the plugin-breaking bugs your server needs!" It takes RGB chat formatting to a whole other level, parsing hex codes in *other plugins'* commands. When the author was asked about it, they said that the only way around it is to [use their library to convert them back](https://www.spigotmc.org/threads/sunlight-%E2%80%A2-server-management-plugin-essentials-1-14-1-16.374716/page-39#post-4124177).
 
 ## Software Alternatives / Info Threads
