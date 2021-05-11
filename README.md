@@ -3,6 +3,19 @@ https://kennytv.github.io/list-of-shame
 ## List Of Shame
 A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 
+---
+
+### AtomSpigot, SpigotGuard, Aegis, Yooniks
+* [AtomSpigot](https://mc-protection.eu/), At first you must know that the first version of AtomSpigot developed by yooniks contained a ySpigot code created by Mael. Second version (latest) is developed by some random guy that in my opinion doesn't even know java basics or he is so stupid, let me explain. He put tnt into async and calling it "optimization" but that doesn't do anything because your cpu usage gonna be higher (also it probably contains yspigot code yey they like Mael so much). So we can tell that this fork is trash and PaperSpigot is better.
+* [SpigotGuard](https://mc-protection.eu/), AntiCrash plugin that have heavy obfuscation and shitty checks causing performence loses, also contains false flags(kicking normal players for crashing) so this AntiCrash is trash.
+* [Aegis](https://mc-protection.eu/), BotFilter fork with "patched" exploits but only in description, also using 300% more cpu than normal bungeecord
+* [Yooniks](https://mc-protection.eu/), 18yo Polish "developer" that are skidding code for years i don't even know if he know java basics XD. (Also he doesn't have any knowledge about exploits :joy:)".
+
+#### Please don't use yooniks products.
+#### ASYNC DOESN'T ALWAYS EQUALS BETTER 
+
+---
+
 * [Yatopia](https://github.com/YatopiaMC/Yatopia), "The combined power of Paper forks for maximum instability and unmaintainablity!" - Messy, tossed salad of people that haven't even really understood the patch system.
 * [Yatopia](https://github.com/YatopiaMC/Yatopia), *no really, it's bad*
 * [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX), "`System.out.println("[SkinsRestorer] ")`, `try {} catch (Exception e) {}`" - The cleanest code it has comes from one-time contributors.
