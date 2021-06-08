@@ -29,6 +29,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [PM2](https://www.spigotmc.org/members/pm2.597961/), "Update your plugin 500 times with single additions and fixes!" - Good review and resource bumping.
 * [SunLight](https://www.spigotmc.org/resources/sunlight-%E2%80%A2-server-management-plugin-essentials-1-14-1-16.67733/) - "Advanced server management plugin with all the plugin-breaking bugs your server needs!" It takes RGB chat formatting to a whole other level, parsing hex codes in *other plugins'* commands. When the author was asked about it, they said that the only way around it is to [use their library to convert them back](https://www.spigotmc.org/threads/sunlight-%E2%80%A2-server-management-plugin-essentials-1-14-1-16.374716/page-39#post-4124177).
 * [Mohist](https://github.com/MohistMC/Mohist), "Get all the worst parts of Bukkit and Forge and mash them together" - Sneakily [swaps Essentials' plugin jar](https://github.com/MohistMC/Mohist/blob/70a303f4d02e9480cc5472c1c26f7d9cb6560732/src/fmllauncher/java/com/mohistmc/AutoDeletePlugins.java#L20-L22) **without telling the user** after trying to [submit a PR](https://github.com/EssentialsX/Essentials/pull/3580) to Essentials to fix their own butchering of the Bukkit API.
+* [Retrooper](https://github.com/KennyTV/list-of-shame/issues/46)
 
 ## Software Alternatives / Info Threads
 This section is the only part of this page you should *actually* take somewhat seriously.
