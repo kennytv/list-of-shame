@@ -17,7 +17,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Songoda](https://songoda.com/marketplace), "The one top sketchy marketplace for Minecraft plugins" - Because it doesn't get more sketchy than Songoda.
 * [NeruxVace](https://neruxvace.net/), "Money ain't got wings!" - Minigames network that won't let anything stand in the way of its urge for "success". Whether it's paying developers, or simply following up on (legal-)agreements - Noah Kemm doesn't need any of that!
 * [Mortal Mines](https://mortalmines.com/), Network that mass DM bots discord servers to gain players for a pay2win prison server. Alexander Didio (aka LizardZ or Energy) has owned and killed OPMines, Sparkverse, WickedSkies, FrostyMC, and Jurassic Mines after two months once their playerbase has been milked dry.
-* 1.8, "An outdated version of Minecraft with more security issues than features!" - Hasn't been updated in [over 7 years](https://howoldisminecraft188.today/).
+* 1.8, "An outdated version of Minecraft with more security issues than features!" - Hasn't been updated in [almost 6 years](https://howoldisminecraft188.today/).
 * [ViaVersion](https://github.com/ViaVersion/ViaVersion), "1.8-1.16 KitPVP" - Enables **the evil** to continue to live.
 * [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/), - Like ViaBackwards, just with more **evil**.
 * [Slimefun](https://github.com/Slimefun/Slimefun4), "It offers everything you could possibly imagine. From taking 70% of your tick to clearing inventories at random!" - Tries to turn your server in an FTB modpack... *tries to*.
@@ -34,7 +34,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 ## Software Alternatives / Info Threads
 This section is the only part of this page you should *actually* take somewhat seriously.
 
-* "Super optimized all-in-one server" alternatives: Paper, Tuinity, Purpur (most performant and properly stable will likely be Tuinity)
+* "Super optimized all-in-one server" alternatives: Paper, Tuinity, Airplane, Purpur (most performant and properly stable will likely be Tuinity)
 * Anti-lag plugin alternative setup and info: https://www.spigotmc.org/threads/283181/ and https://www.spigotmc.org/threads/283181/page-20#post-3684550
 * Dupe fixer alternative: Use Paper (or one of its **sane** forks) and stay on the latest version of Minecraft... unless you run a creative server, then plugins make sense to clear data-spammed items
 * EWG info/alternatives: https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/
