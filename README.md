@@ -4,7 +4,7 @@ https://kennytv.github.io/list-of-shame
 A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 
 * [Yatopia](https://github.com/YatopiaMC/Yatopia), "The combined power of Paper forks for maximum instability and unmaintainablity!" - Messy, tossed salad of people that haven't even really understood the patch system.
-* [Yatopia](https://github.com/YatopiaMC/Yatopia), [*no really, it's bad*](https://github.com/KennyTV/Yaptapia)
+* [Yatopia](https://github.com/YatopiaMC/Yatopia), *no really, [it's bad](https://github.com/KennyTV/Yaptapia)*
 * [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX), "`System.out.println("[SkinsRestorer] ")`, `try {} catch (Exception e) {}`" - The cleanest code it has comes from one-time contributors.
 * [EntityTrackerFixer](https://github.com/Esmorall/EntityTrackerFixer), "Minecraft tracks alot of entities - so let's disable that, who needs entities to work as intended anyway ;^)", not to mention that Paper already implements most of its fixes
 * Literally any closed-source (paid) 1.8 Paper fork on mcmarket, "\[Optimized\] \[Cannons\] \[Everything is multithreaded\]" - Mostly just copied off each other with little to no actual work involved or improvements done, with many even introducing major bugs or including security breaches.
@@ -35,7 +35,8 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 This section is the only part of this page you should *actually* take somewhat seriously.
 
 * "Super optimized all-in-one server" alternatives: Paper, Tuinity, Airplane, Purpur (most performant and properly stable will likely be Tuinity)
-* "Hybrid" (Forge/something else + Bukkit, e.g. Mohist) servers - info/alternatives: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html).
+  * Info: https://github.com/KennyTV/Yaptapia (not necessarily bound to Yatopia)
+* "Hybrid" (Forge/something else + Bukkit) server info/alternatives: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html).
 * Anti-lag plugin alternative setup and info: https://www.spigotmc.org/threads/283181/ and https://www.spigotmc.org/threads/283181/page-20#post-3684550
 * Dupe fixer alternative: Use Paper (or one of its **sane** forks) and stay on the latest version of Minecraft... unless you run a creative server, then plugins make sense to clear data-spammed items
 * EWG info/alternatives: https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/
