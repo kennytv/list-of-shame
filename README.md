@@ -4,7 +4,7 @@ https://kennytv.github.io/list-of-shame
 A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 
 * [Yatopia](https://github.com/YatopiaMC/Yatopia), "The combined power of Paper forks for maximum instability and unmaintainablity!" - Messy, tossed salad of people that haven't even really understood the patch system.
-* [Yatopia](https://github.com/YatopiaMC/Yatopia), *no really, it's bad*
+* [Yatopia](https://github.com/YatopiaMC/Yatopia), [*no really, it's bad*](https://github.com/KennyTV/Yaptapia)
 * [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX), "`System.out.println("[SkinsRestorer] ")`, `try {} catch (Exception e) {}`" - The cleanest code it has comes from one-time contributors.
 * [EntityTrackerFixer](https://github.com/Esmorall/EntityTrackerFixer), "Minecraft tracks alot of entities - so let's disable that, who needs entities to work as intended anyway ;^)", not to mention that Paper already implements most of its fixes
 * Literally any closed-source (paid) 1.8 Paper fork on mcmarket, "\[Optimized\] \[Cannons\] \[Everything is multithreaded\]" - Mostly just copied off each other with little to no actual work involved or improvements done, with many even introducing major bugs or including security breaches.
