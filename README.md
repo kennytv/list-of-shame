@@ -34,7 +34,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 ## Software Alternatives / Info Threads
 This section is the only part of this page you should *actually* take somewhat seriously.
 
-* "Super optimized all-in-one server" alternatives: Paper, Tuinity, Airplane, Purpur (most performant and properly stable will likely be Tuinity)
+* "Super optimized all-in-one server" alternatives: Paper, Airplane, Purpur (most performant AND properly stable will likely be Paper)
   * Info: [https://github.com/KennyTV/Yaptapia](https://github.com/KennyTV/Yaptapia) (not necessarily bound to Yatopia)
 * "Hybrid" (Forge/something else + Bukkit) server info/alternatives: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html).
 * Anti-lag plugin alternative setup and info: [https://www.spigotmc.org/threads/283181/](https://www.spigotmc.org/threads/283181/) and [https://www.spigotmc.org/threads/283181/page-20#post-3684550](https://www.spigotmc.org/threads/283181/page-20#post-3684550)
