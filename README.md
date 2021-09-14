@@ -4,6 +4,7 @@ https://kennytv.github.io/list-of-shame
 A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 
 * [Yatopia](https://github.com/YatopiaMC/Yatopia) & [SugarcaneMC](https://github.com/SugarcaneMC/Sugarcane), "The combined power of Paper forks for maximum instability and unmaintainablity!" - Messy, tossed salad of people that haven't even really understood the patch system. And yes, *[it's that bad](https://github.com/KennyTV/Yaptapia)*
+* [WorldQL](https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/) - Interesting project with a promising idea, but with Sugarcane-level advertising, vastly blown out of proportion, and already containing countless red flags in their public Spigot plugin, which do not give the impression of scalability.
 * [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX), "`System.out.println("[SkinsRestorer] ")`, `try {} catch (Exception e) {}`" - The cleanest code it has comes from one-time contributors.
 * [EntityTrackerFixer](https://github.com/Esmorall/EntityTrackerFixer), "Minecraft tracks alot of entities - so let's disable that, who needs entities to work as intended anyway ;^)", not to mention that Paper already implements most of its fixes.
 * Literally any closed-source (paid) 1.8 Paper fork on mcmarket, "\[Optimized\] \[Cannons\] \[Everything is multithreaded\]" - Mostly just copied off each other with little to no actual work involved or improvements done, with many even introducing major bugs or including security breaches.
@@ -30,7 +31,6 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Mohist](https://github.com/MohistMC/Mohist), "Get all the worst parts of Bukkit and Forge and mash them together" - [Swapped Essentials' plugin jar](https://github.com/MohistMC/Mohist/blob/70a303f4d02e9480cc5472c1c26f7d9cb6560732/src/fmllauncher/java/com/mohistmc/AutoDeletePlugins.java#L20-L22) after trying to [submit a PR](https://github.com/EssentialsX/Essentials/pull/3580) to Essentials to fix their own butchering of the Bukkit API. *Then* tried to turn [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html) regarding security concerns [into an ad](https://github.com/EssentialsX/Website/pull/44).
 * [Retrooper](https://github.com/KennyTV/list-of-shame/issues/46)
 * [The Duper Trooper](https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg) - Clickbait YouTube channel that "leaks" exploits and other security related issues to the public and encourages its followers to report to them instead of disclosing properly. And yes, [they actually do](https://cdn.discordapp.com/attachments/155145799796391936/877016425221459978/unknown.png).
-* [WorldQL](https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/) - Interesting project with a promising idea, but with Sugarcane-level advertising, vastly blown out of proportion, and already containing countless red flags in their public Spigot plugin, which do not give the impression of scalability.
 
 ## Software Alternatives / Info Threads
 This section is the only part of this page you should *actually* take somewhat seriously.
