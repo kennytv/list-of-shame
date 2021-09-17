@@ -18,7 +18,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [NeruxVace](https://neruxvace.net/), "Money ain't got wings!" - Minigames network that won't let anything stand in the way of its urge for "success". Whether it's paying developers, or simply following up on (legal-)agreements - Noah Kemm doesn't need any of that!
 * [Mortal Mines](https://mortalmines.com/), Network that mass DM bots discord servers to gain players for a pay2win prison server. Alexander Didio (aka LizardZ or Energy) has owned and killed OPMines, Sparkverse, WickedSkies, FrostyMC, and Jurassic Mines after two months once their playerbase has been milked dry.
 * 1.8, "An outdated version of Minecraft with more security issues than features!" - Hasn't been updated in [over 6 years](https://howoldisminecraft188.today/).
-* [ViaVersion](https://github.com/ViaVersion/ViaVersion), "1.8-1.16 KitPVP" - Enables **the evil** to continue to live.
+* [ViaVersion](https://github.com/ViaVersion/ViaVersion), "1.8-1.17 KitPVP" - Enables **the evil** to continue to live.
 * [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/), - Like ViaBackwards, just with more **evil**.
 * [Slimefun](https://github.com/Slimefun/Slimefun4), "It offers everything you could possibly imagine. From taking 70% of your tick to clearing inventories at random!" - Tries to turn your server in an FTB modpack... *tries to*.
 * [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932), "It's async, so that means it's better!" - Aims to be a fast fork of WorldEdit, it sure is fast, fast at breaking things.
