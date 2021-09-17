@@ -4,6 +4,7 @@ https://kennytv.github.io/list-of-shame
 A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 
 * [Yatopia](https://github.com/YatopiaMC/Yatopia) & [SugarcaneMC](https://github.com/SugarcaneMC/Sugarcane), "The combined power of Paper forks for maximum instability and unmaintainablity!" - Messy, tossed salad of people that haven't even really understood the patch system. And yes, *[it's that bad](https://github.com/KennyTV/Yaptapia)*
+* [WorldQL](https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/) - Interesting project with a promising idea, but with Sugarcane-level advertising, vastly blown out of proportion, and already containing countless red flags in their public Spigot plugin, which do not give the impression of scalability.
 * [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX), "`System.out.println("[SkinsRestorer] ")`, `try {} catch (Exception e) {}`" - The cleanest code it has comes from one-time contributors.
 * [EntityTrackerFixer](https://github.com/Esmorall/EntityTrackerFixer), "Minecraft tracks alot of entities - so let's disable that, who needs entities to work as intended anyway ;^)", not to mention that Paper already implements most of its fixes.
 * Literally any closed-source (paid) 1.8 Paper fork on mcmarket, "\[Optimized\] \[Cannons\] \[Everything is multithreaded\]" - Mostly just copied off each other with little to no actual work involved or improvements done, with many even introducing major bugs or including security breaches.
@@ -13,7 +14,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Yooniks](https://www.mc-market.org/members/126711/), "The embodiment of MCM" - If you feel like you have too much money and you are looking for horrible, closed-source forks of Bungee/Spigot, Yooniks is your guy. He's so good that even MCM banned him for being an ass.
 * [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/), "Use one of ClearLagg's many utilities to make lag" - Causes more lag than it removes and doesn't even know its own name.
 * [CMI](https://www.spigotmc.org/resources/cmi.3742/), "Over 280 must have bugs for your server!" - A (non-)substitute for EssentialsX for the people that think paid=good.
-* [Songoda](https://songoda.com/marketplace), "The one top sketchy marketplace for Minecraft plugins" - Because it doesn't get more sketchy than Songoda.
+* [Songoda](https://songoda.com/marketplace), "The one-stop sketchy marketplace for Minecraft plugins" - Because it doesn't get more sketchy than Songoda.
 * [NeruxVace](https://neruxvace.net/), "Money ain't got wings!" - Minigames network that won't let anything stand in the way of its urge for "success". Whether it's paying developers, or simply following up on (legal-)agreements - Noah Kemm doesn't need any of that!
 * [Mortal Mines](https://mortalmines.com/), Network that mass DM bots discord servers to gain players for a pay2win prison server. Alexander Didio (aka LizardZ or Energy) has owned and killed OPMines, Sparkverse, WickedSkies, FrostyMC, and Jurassic Mines after two months once their playerbase has been milked dry.
 * 1.8, "An outdated version of Minecraft with more security issues than features!" - Hasn't been updated in [over 6 years](https://howoldisminecraft188.today/).
