@@ -39,14 +39,13 @@ This section is the only part of this page you should *actually* take somewhat s
 * "Super optimized all-in-one server" alternatives: Paper, Airplane, Purpur (most performant AND properly stable will likely be Paper)
   * Info: <https://github.com/kennytv/Yaptapia> (not necessarily bound to Yatopia)
 * "Hybrid" (Forge/something else + Bukkit) server info/alternatives: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html).
-* Anti-lag plugin alternative setup and info: [https://www.spigotmc.org/threads/283181/](https://www.spigotmc.org/threads/283181/) and [https://www.spigotmc.org/threads/283181/page-20#post-3684550](https://www.spigotmc.org/threads/283181/page-20#post-3684550)
+* Anti-lag plugin alternative setup and info: <https://www.spigotmc.org/threads/283181/> and <https://www.spigotmc.org/threads/283181/page-20#post-3684550>
 * Dupe fixer alternative: Use Paper (or one of its **sane** forks) and stay on the latest version of Minecraft... unless you run a creative server, then plugins make sense to clear data-spammed items
-* EWG info/alternatives: [https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/](https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/)
+* EWG info/alternatives: <https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/>
 * SkinsRestorer alternative: *For the love of god, **don't use offline mode***
 * CMI alternative: EssentialsX, given its free, open source, and you are less likely to run into problems, or will have them fixed faster... though there is nothing wrong with liking CMI how it is, either
 
 ## Disclaimer
-This list does not mean you *must not* use any of the above mentioned, or that all of them are *truly* horrible,
-but just that random people on the internet consider some of their (design) choices questionable.
+This list does not mean you *must not* use any of the above-mentioned, or that all of them are *actually* bad.
 Take it lightly and please correct any plainly wrong information.
 Have a nice day, k thx bai.
