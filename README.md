@@ -37,11 +37,11 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 This section is the only part of this page you should *actually* take somewhat seriously.
 
 * "Super optimized all-in-one server" alternatives: Paper, Airplane, Purpur (most performant AND properly stable will likely be Paper)
-  * Info: https://github.com/KennyTV/Yaptapia (not necessarily bound to Yatopia)
+  * Info: [https://github.com/KennyTV/Yaptapia](https://github.com/KennyTV/Yaptapia) (not necessarily bound to Yatopia)
 * "Hybrid" (Forge/something else + Bukkit) server info/alternatives: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html).
-* Anti-lag plugin alternative setup and info: https://www.spigotmc.org/threads/283181/ and https://www.spigotmc.org/threads/283181/page-20#post-3684550
+* Anti-lag plugin alternative setup and info: [https://www.spigotmc.org/threads/283181/](https://www.spigotmc.org/threads/283181/) and [https://www.spigotmc.org/threads/283181/page-20#post-3684550](https://www.spigotmc.org/threads/283181/page-20#post-3684550)
 * Dupe fixer alternative: Use Paper (or one of its **sane** forks) and stay on the latest version of Minecraft... unless you run a creative server, then plugins make sense to clear data-spammed items
-* EWG info/alternatives: https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/
+* EWG info/alternatives: [https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/](https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/)
 * SkinsRestorer alternative: *For the love of god, **don't use offline mode***
 * CMI alternative: EssentialsX, given its free, open source, and you are less likely to run into problems, or will have them fixed faster... though there is nothing wrong with liking CMI how it is, either
 
