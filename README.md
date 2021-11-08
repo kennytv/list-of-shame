@@ -32,6 +32,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Retrooper](https://github.com/kennytv/list-of-shame/issues/46)
 * [Retrooper, again](https://github.com/kennytv/list-of-shame/pull/67)
 * [The Duper Trooper](https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg) - Clickbait YouTube channel that "leaks" exploits and other security related issues to the public and encourages its followers to report to them instead of disclosing properly. And yes, [they actually do](https://cdn.discordapp.com/attachments/155145799796391936/877016425221459978/unknown.png).
+* [AdvancedEnchantments](https://www.spigotmc.org/resources/43058/), "Over 450+ Bugs for your server" - Permanent (and fake) discounts, rampant static abuse, horrible codestyle, and [A class so copy-pasted that it includes a main() method](https://gist.github.com/WillFP/d68c4ec9430e9681a888c7989d84d9cb)
 
 ## Software Alternatives / Info Threads
 This section is the only part of this page you should *actually* take somewhat seriously.
