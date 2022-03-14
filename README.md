@@ -46,6 +46,9 @@ This section is the only part of this page you should *actually* take somewhat s
 * SkinsRestorer alternative: *For the love of god, **don't use offline mode***
 * CMI alternative: EssentialsX, given its free, open source, and you are less likely to run into problems, or will have them fixed faster... though there is nothing wrong with liking CMI how it is, either
 
+## List Of Fame
+If you're looking for hot projects around Minecraft, take a look at https://github.com/Incendo/awesome-minecraft
+
 ## Disclaimer
 This list does not mean you *must not* use any of the above-mentioned, or that all of them are *actually* bad.
 Take it lightly and please correct any plainly wrong information.
