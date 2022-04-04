@@ -34,6 +34,8 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Retrooper, again](https://github.com/kennytv/list-of-shame/pull/67)
 * [The Duper Trooper](https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg) - Clickbait YouTube channel that "leaks" exploits and other security related issues to the public and encourages its followers to report to them instead of disclosing properly. And yes, [they actually do](https://cdn.discordapp.com/attachments/155145799796391936/877016425221459978/unknown.png).
 * [kennytv](https://www.twitch.tv/kennytvn) - German streamer who has repeatedly failed to meet streaming obligations
+* [Intellij IDEA](https://www.jetbrains.com/idea/) - Forgot "Don't fix what ain't broken.", and added warnings to tell peoples how to "code properly".  
+  (Map.put usages are sometimes suspiscious for no reason, also ask to use lambda for no reason, and help as much making code slower than faster)
 
 ## Software Alternatives / Info Threads
 This section is the only part of this page you should *actually* take somewhat seriously.
