@@ -3,7 +3,7 @@ https://kennytv.github.io/list-of-shame
 ## List Of Shame
 A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 
-* [Yatopia](https://github.com/YatopiaMC/Yatopia) & [SugarcaneMC](https://github.com/SugarcaneMC/Sugarcane), "The combined power of Paper forks for maximum instability!" - Tossed salad of people that haven't even really understood the patch system. And yes, *[it's that bad](https://github.com/kennytv/Yaptapia)*
+* [Yatopia](https://github.com/YatopiaMC/Yatopia), [SugarcaneMC](https://github.com/SugarcaneMC/Sugarcane) & [Mirai](https://github.com/etil2jz/Mirai), "The combined power of Paper forks for maximum instability!" - Tossed salad of people that haven't even really understood the patch system. And yes, *[it's that bad](https://github.com/kennytv/Yaptapia)*
 * [StellarDev](https://stellardev.org/), "Stealing code, but professionally" - Aside from the usual closed-source Spigot forks, get paid thousands to steal code without attribution, [bar a little slip up...](https://github.com/NFT-Worlds/Server/blob/4f7bc3329aadac0667b8bb8d6d384558566af6ff/patches/server/0046-Async-Entities.patch#L238)<!-- Even more ironic if you look at who this was made for -->
 * [WorldQL](https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/) - Interesting project with a promising idea, but with Sugarcane-level advertising, vastly blown out of proportion, and already containing countless 🚩 in their Spigot plugin.
 * [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX) - "`System.out.println("[SkinsRestorer] ")`, `try {} catch (Exception e) {}`"
@@ -33,6 +33,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Retrooper](https://github.com/kennytv/list-of-shame/issues/46)
 * [Retrooper, again](https://github.com/kennytv/list-of-shame/pull/67)
 * [The Duper Trooper](https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg) - Clickbait YouTube channel that "leaks" exploits and other security related issues to the public and encourages its followers to report to them instead of disclosing properly. And yes, [they actually do](https://cdn.discordapp.com/attachments/155145799796391936/877016425221459978/unknown.png).
+* [kennytv](https://www.twitch.tv/kennytvn) - German streamer who has repeatedly failed to meet streaming obligations
 * [alexisl315](https://www.spigotmc.org/members/190298/) - Your go-to dev for laggy, inefficient skript recreations of popular plugins. Ignores any critique given in reviews and makes fake updates that only change a few lines at most.
 
 ## Software Alternatives / Info Threads
