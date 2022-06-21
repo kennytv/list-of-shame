@@ -19,6 +19,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [NeruxVace](https://neruxvace.net/), "Money ain't got wings!" - Minigames network that won't let anything stand in the way of its urge for "success". Who needs to pay devs anyways.
 * 1.8, "An outdated version of Minecraft with more security issues than features!" - Hasn't been updated in [quite a bunch of years](https://howoldisminecraft188.today/).
 * [ViaVersion](https://github.com/ViaVersion/ViaVersion), "1.8-1.18 KitPVP" - Enables **the evil** to continue to live.
+* [ViaRewind](https://github.com/ViaVersion/ViaRewind), - Okey, I can understand 1.8 on ViaVersion, BUT THIS IS THE REAL **EVIL** VERSION.
 * [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/), - Like ViaBackwards, just with even more **evil**.
 * [Slimefun](https://github.com/Slimefun/Slimefun4), "It offers everything you could possibly imagine. From taking 70% of your tick to clearing inventories at random!" - Tries to turn your server in an FTB modpack, but a lot more cursed.
 * [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932), "Fast async world exception" - Fast, fast at breaking things.
