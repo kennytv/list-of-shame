@@ -34,6 +34,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Retrooper, again](https://github.com/kennytv/list-of-shame/pull/67)
 * [The Duper Trooper](https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg) - Clickbait YouTube channel that "leaks" exploits and other security related issues to the public and encourages its followers to report to them instead of disclosing properly. And yes, [they actually do](https://cdn.discordapp.com/attachments/155145799796391936/877016425221459978/unknown.png).
 * [kennytv](https://www.twitch.tv/kennytvn) - German streamer who has repeatedly failed to meet streaming obligations
+* [NFTWorlds](https://www.nftworlds.com) - Selling [Minecraft seeds and skins](https://opensea.io/collection/nft-worlds) on the blockchain and [getting mad at Mojang](https://routing.nftworlds.com/ipfs/QmXRLKdmEReiTWoESHFfUUrJoWkUX2obye3urL6x8zt5Bx) when they [disallowed their practices](https://www.minecraft.net/en-us/article/minecraft-and-nfts).
 
 ## Software Alternatives / Info Threads
 This section is the only part of this page you should *actually* take somewhat seriously.
