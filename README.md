@@ -13,6 +13,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
   on the blockchain
   and [getting mad at Mojang](https://routing.nftworlds.com/ipfs/QmXRLKdmEReiTWoESHFfUUrJoWkUX2obye3urL6x8zt5Bx) when
   they [disallowed their bad practices](https://www.minecraft.net/en-us/article/minecraft-and-nfts).
+* [Gaslight](https://github.com/nodusclient/gaslight) - A mod that "fakes" 1.19.1+ chat reports, but will most likely just [get you banned](https://twitter.com/Minecraft/status/1553077941541560320).
 * [StellarDev](https://stellardev.org/), "Stealing code, but professionally" - Aside from the usual closed-source Spigot
   forks, get paid thousands to steal code without
   attribution, [bar a little slip up...](https://github.com/NFT-Worlds/Server/blob/4f7bc3329aadac0667b8bb8d6d384558566af6ff/patches/server/0046-Async-Entities.patch#L238)<!-- Even more ironic if you look at who this was made for -->
