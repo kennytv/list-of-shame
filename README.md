@@ -4,6 +4,7 @@ https://kennytv.github.io/list-of-shame
 
 A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 
+* *A lot* of the #saveminecraft followers - Have devolved from somewhat reasonable arguments into a [tinfoilhat factory](https://youtu.be/wXQoH4IQGMM), using mods that, ironic to their purpose, actually [contain vulnerabilities or usually open yourself up to self-incrimination](https://gist.github.com/kennytv/ed783dd244ca0321bbd882c347892874?permalink_comment_id=4257162#gistcomment-4257162).
 * 1.8, "An outdated version of Minecraft with more security issues than features!" - Hasn't been updated
   in [quite a bunch of years](https://howoldisminecraft188.today/).
 * Every single closed-source (paid) 1.8 Paper fork on mcmarket, "\[Optimized\] \[Cannons\] \[Everything is
