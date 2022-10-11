@@ -22,6 +22,11 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
   salad of people that haven't even really understood the patch system. And
   yes, *[it's that bad](https://github.com/kennytv/Yaptapia)*
 * [CatServer](https://github.com/Luohuayu/CatServer)/[FoxServer](https://github.com/Luohuayu/FoxServer), "Steals code from other hybirds and breaks their license" - Gets angry when mohist and magma DMCA them for [breaking](https://github.com/Luohuayu/FoxServer/issues/7#issuecomment-1100009357) their license
+* [Mohist](https://github.com/MohistMC/Mohist), "Get the worst parts of Bukkit and Forge and mash them together"
+  - (in the past) [Swapped Essentials' plugin jar](https://github.com/MohistMC/Mohist/blob/70a303f4d02e9480cc5472c1c26f7d9cb6560732/src/fmllauncher/java/com/mohistmc/AutoDeletePlugins.java#L20-L22)
+  after trying to [submit a PR](https://github.com/EssentialsX/Essentials/pull/3580) to Essentials to fix their own
+  cuckery of the Bukkit API. *Then* tried to turn [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html)
+  regarding security concerns [into an ad](https://github.com/EssentialsX/Website/pull/44).
 * [Songoda](https://songoda.com/marketplace), "The one-stop sketchy marketplace for Minecraft plugins" - Because it
   doesn't get more sketchy than Songoda.
 * [Yooniks](https://www.mc-market.org/members/126711/) - If you feel like you have too much money and you are looking
