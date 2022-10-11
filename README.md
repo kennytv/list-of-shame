@@ -25,7 +25,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Mohist](https://github.com/MohistMC/Mohist), "Get the worst parts of Bukkit and Forge and mash them together"
   - (in the past) [Swapped Essentials' plugin jar](https://github.com/MohistMC/Mohist/blob/70a303f4d02e9480cc5472c1c26f7d9cb6560732/src/fmllauncher/java/com/mohistmc/AutoDeletePlugins.java#L20-L22)
   after trying to [submit a PR](https://github.com/EssentialsX/Essentials/pull/3580) to Essentials to fix their own
-  cuckery of the Bukkit API. *Then* tried to turn [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html)
+  end of the Bukkit API. *Then* tried to turn [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html)
   regarding security concerns [into an ad](https://github.com/EssentialsX/Website/pull/44).
 * [Songoda](https://songoda.com/marketplace), "The one-stop sketchy marketplace for Minecraft plugins" - Because it
   doesn't get more sketchy than Songoda.
