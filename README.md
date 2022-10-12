@@ -84,7 +84,7 @@ This section is the only part of this page you should *actually* take somewhat s
 
 * "Super optimized all-in-one server" alternatives: The most performant AND properly stable will likely always be Paper
     * Info: <https://github.com/kennytv/Yaptapia> (not necessarily bound to Yatopia)
-* "Hybrid" (Forge/something else + Bukkit) server info/alternatives: Essentials' PSA.
+* "Hybrid" (Forge/something else + Bukkit) server info/alternatives: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html).
 * Anti-lag plugin alternative setup and info: <https://www.spigotmc.org/threads/283181/>
   and <https://www.spigotmc.org/threads/283181/page-20#post-3684550>
 * Dupe fixer alternative: Use Paper (or one of its **sane** forks) and stay on the latest version of Minecraft... unless
