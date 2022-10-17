@@ -21,10 +21,11 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
   & [Mirai](https://github.com/etil2jz/Mirai), "The combined power of Paper forks for maximum instability!" - Tossed
   salad of people that haven't even really understood the patch system. And
   yes, *[it's that bad](https://github.com/kennytv/Yaptapia)*
-* [Mohist](https://github.com/MohistMC/Mohist), "Get the worst parts of Bukkit and Forge and mash them together"
-  - [Swapped Essentials' plugin jar](https://github.com/MohistMC/Mohist/blob/70a303f4d02e9480cc5472c1c26f7d9cb6560732/src/fmllauncher/java/com/mohistmc/AutoDeletePlugins.java#L20-L22)
+* Hybrid Servers (Forge/Something else + Bukkit) "Smash two separate APIs together into a mess" - Servers that combine two incompatible APIs and break them both in the process.
+  * [CatServer](https://github.com/Luohuayu/CatServer)/[FoxServer](https://github.com/Luohuayu/FoxServer), "Steals code from other hybirds and breaks their license" - Gets angry when mohist and magma DMCA them for [breaking](https://github.com/Luohuayu/FoxServer/issues/7#issuecomment-1100009357) their license
+  * [Mohist](https://github.com/MohistMC/Mohist), "Get the worst parts of Bukkit and Forge and mash them together" - [Swapped Essentials' plugin jar](https://github.com/MohistMC/Mohist/blob/70a303f4d02e9480cc5472c1c26f7d9cb6560732/src/fmllauncher/java/com/mohistmc/AutoDeletePlugins.java#L20-L22)
   after trying to [submit a PR](https://github.com/EssentialsX/Essentials/pull/3580) to Essentials to fix their own
-  cuckery of the Bukkit API. *Then* tried to turn [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html)
+  end of the Bukkit API. *Then* tried to turn [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html)
   regarding security concerns [into an ad](https://github.com/EssentialsX/Website/pull/44).
 * [Songoda](https://songoda.com/marketplace), "The one-stop sketchy marketplace for Minecraft plugins" - Because it
   doesn't get more sketchy than Songoda.
@@ -84,8 +85,7 @@ This section is the only part of this page you should *actually* take somewhat s
 
 * "Super optimized all-in-one server" alternatives: The most performant AND properly stable will likely always be Paper
     * Info: <https://github.com/kennytv/Yaptapia> (not necessarily bound to Yatopia)
-* "Hybrid" (Forge/something else + Bukkit) server
-  info/alternatives: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html).
+* "Hybrid" (Forge/something else + Bukkit) server info/alternatives: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html).
 * Anti-lag plugin alternative setup and info: <https://www.spigotmc.org/threads/283181/>
   and <https://www.spigotmc.org/threads/283181/page-20#post-3684550>
 * Dupe fixer alternative: Use Paper (or one of its **sane** forks) and stay on the latest version of Minecraft... unless
