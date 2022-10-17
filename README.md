@@ -76,6 +76,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
   often outdated exploits and other security related issues to the public and encourages its followers to report to them
   instead of disclosing properly.
 * [kennytv](https://www.twitch.tv/kennytvn) - German streamer who has repeatedly failed to meet streaming obligations
+* [alexisl315](https://www.spigotmc.org/members/190298/) - Your go-to dev for laggy, inefficient skript recreations of popular plugins. Ignores any critique given in reviews and makes fake updates that only change a few lines at most.
 
 ## Software Alternatives / Info Threads
 
