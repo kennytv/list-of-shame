@@ -22,7 +22,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
   salad of people that haven't even really understood the patch system. And
   yes, *[it's that bad](https://github.com/kennytv/Yaptapia)*
 * Hybrid Servers (Forge/Something else + Bukkit) "Smash two separate APIs together into a mess" - Servers that combine two incompatible APIs and break them both in the process.
-  * [CatServer](https://github.com/Luohuayu/CatServer)/[FoxServer](https://github.com/Luohuayu/FoxServer), "Steals code from other hybirds and breaks their license" - Gets angry when mohist and magma DMCA them for [breaking](https://github.com/Luohuayu/FoxServer/issues/7#issuecomment-1100009357) their license
+  * [CatServer](https://github.com/Luohuayu/CatServer)/[FoxServer](https://github.com/Luohuayu/FoxServer), "Steals code from other hybrids and breaks their license" - Gets angry when Mohist and Magma DMCA them for [breaking their license](https://github.com/Luohuayu/FoxServer/issues/7#issuecomment-1100009357).
   * [Mohist](https://github.com/MohistMC/Mohist), "Get the worst parts of Bukkit and Forge and mash them together" - [Swapped Essentials' plugin jar](https://github.com/MohistMC/Mohist/blob/70a303f4d02e9480cc5472c1c26f7d9cb6560732/src/fmllauncher/java/com/mohistmc/AutoDeletePlugins.java#L20-L22)
   after trying to [submit a PR](https://github.com/EssentialsX/Essentials/pull/3580) to Essentials to fix their own
   end of the Bukkit API. *Then* tried to turn [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html)
