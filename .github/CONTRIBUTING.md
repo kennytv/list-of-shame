@@ -1,5 +1,5 @@
 In general, I will only accept entries of projects or things I am at least vaguely aware of and that have a strong
-community consensus aroudn the given opinion. Otherwise, there are 2 simple rules you need to follow when creating new entries.
+community consensus around the given opinion. Otherwise, there are 2 simple rules you need to follow when creating new entries.
 
 ## Style
 
