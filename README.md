@@ -2,7 +2,7 @@ https://kennytv.github.io/list-of-shame
 
 ## List Of Shame
 
-A non-exhaustive list of projects to be known to have rather unpleasant vibes.
+A non-exhaustive list of dank projects.
 
 * [#saveminecraft](https://youtu.be/wXQoH4IQGMM)
 * 1.8 - Has more exploits and security issues than [days it is old](https://howoldisminecraft188.today/).
@@ -16,8 +16,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [StellarDev](https://stellardev.org/), Aside from the usual closed-source Spigot
   forks, get paid to steal code without
   attribution, [bar a little slip up...](https://github.com/NFT-Worlds/Server/blob/4f7bc3329aadac0667b8bb8d6d384558566af6ff/patches/server/0046-Async-Entities.patch#L238)<!-- Even more ironic if you look at who this was made for -->
-* [Yatopia](https://github.com/YatopiaMC/Yatopia), [SugarcaneMC](https://github.com/SugarcaneMC/Sugarcane)
-  & [Mirai](https://github.com/etil2jz/Mirai) - *[Ouch](https://github.com/kennytv/Yaptapia)*.
+* [Yatopia](https://github.com/YatopiaMC/Yatopia), [Mirai](https://github.com/etil2jz/Mirai) - *[Ouch](https://github.com/kennytv/Yaptapia)*.
 * Hybrid Servers (Forge/Something else + Bukkit) - Servers that combine
   two incompatible APIs and break them both in the process.
     * [CatServer](https://github.com/Luohuayu/CatServer) - [Breaking license restrictions](https://github.com/Luohuayu/FoxServer/issues/7#issuecomment-1100009357).
@@ -30,11 +29,11 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [Yooniks](https://www.mc-market.org/members/126711/) - If you feel like you have too much money and you are looking
   for closed-source forks of Bungee/Spigot, look no further.
 * [Kangarko](https://github.com/kangarko) - Advertising genuis behind paid plugin-courses.
-    - Latest victim of Kangarko's blame: [All of SpigotMC](https://www.spigotmc.org/threads/478408/)
+    - Latest victim of his blame: [All of SpigotMC](https://www.spigotmc.org/threads/478408/)
 * [EpicWorldGenerator](https://www.spigotmc.org/resources/epicworldgenerator.8067/) - Because it sure is worth spending
   $20 for something that has several free alternatives with the same features.
     * Also [based on code directly stolen from a free mod](https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/) ([Realistic World Gen](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3))
-* [WorldQL](https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/) - Premium example of the power of
+* [WorldQL](https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/) - A prime example of the power of
   advertising, vastly blown out of proportion despite countless 🚩.
 * [EntityTrackerFixer](https://github.com/Esmorall/EntityTrackerFixer) - Minecraft tracks alot of entities - so let's
   just not do that.
@@ -47,10 +46,12 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
   the [least premium way possible](https://github.com/kennytv/list-of-shame/issues/77).
 * Purpur - What if someone made a fork instead of just creating plugins doing the same things?
 * [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/) - Causes more lag than it removes and doesn't even know its own name.
+* [gitmoji](https://github.com/carloscuesta/gitmoji) - Using emojis on commit messages provides an easy way of
+  identifying the purpose or intention of a commit with only looking at the emojis used... as long as you can learn
+  the intended, sometimes overlapping use of 80 only vaguely cohesive emojis by heart (guess what 🍱 means).
 * [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932) - Fast, fast at breaking things.
 * [AsyncWorldEdit](https://www.spigotmc.org/resources/asyncworldedit-premium.9661/) - Like FAWE, but slower and breaking the WorldEdit license.
-* [CMI](https://www.spigotmc.org/resources/cmi.3742/), "Over 280 must have bugs for your server!" - A substitute for
-  EssentialsX for the people that think paid=good.
+* [CMI](https://www.spigotmc.org/resources/cmi.3742/) - A substitute for EssentialsX for the people that think paid=good.
 * [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX) - `System.out.println("[SkinsRestorer] ")`, `try {} catch (Exception e) {}`".
 * [ViaVersion](https://github.com/ViaVersion/ViaVersion) - Continuously allows evil to exist.
 * [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/) - Like ViaBackwards, just with even
