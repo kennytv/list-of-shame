@@ -51,7 +51,10 @@ A non-exhaustive list of dank projects.
   the intended, sometimes overlapping use of 80 only vaguely cohesive emojis by heart (guess what 🍱 means).
 * [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932) - Fast, fast at breaking things.
 * [AsyncWorldEdit](https://www.spigotmc.org/resources/asyncworldedit-premium.9661/) - Like FAWE, but slower and breaking the WorldEdit license.
-* [CMI](https://www.spigotmc.org/resources/cmi.3742/) - A substitute for EssentialsX for the people that think paid=good.
+* [CMI](https://www.spigotmc.org/resources/cmi.3742/) - A substitute for EssentialsX for the people that think paid=good. Also the only plugin in existence that had a ping command that
+  * parses placeholders in the optional player argument
+  * has a placeholder to send messages to the console
+  * makes that console display possible by having the console execute the argument in a command
 * [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX) - `System.out.println("[SkinsRestorer] ")`, `try {} catch (Exception e) {}`".
 * [ViaVersion](https://github.com/ViaVersion/ViaVersion) - Continuously allows evil to exist.
 * [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/) - Like ViaBackwards, just with even
