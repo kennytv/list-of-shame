@@ -28,7 +28,7 @@ A non-exhaustive list of dank projects.
 * [Songoda](https://songoda.com/marketplace) - We still tell tales of one of the most sketchy plugin marketplaces.
 * [Yooniks](https://www.mc-market.org/members/126711/) - If you feel like you have too much money and you are looking
   for closed-source forks of Bungee/Spigot, look no further.
-* [Kangarko](https://github.com/kangarko) - Advertising genuis behind paid plugin-courses.
+* [Kangarko](https://github.com/kangarko) - Advertising genius behind paid plugin-courses.
     - Latest victim of his blame: [All of SpigotMC](https://www.spigotmc.org/threads/478408/)
 * [EpicWorldGenerator](https://www.spigotmc.org/resources/epicworldgenerator.8067/) - Because it sure is worth spending
   $20 for something that has several free alternatives with the same features.
