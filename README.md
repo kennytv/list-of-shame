@@ -21,7 +21,7 @@ A non-exhaustive list of dank projects.
   two incompatible APIs and break them both in the process.
     * [MagmaMC](https://github.com/MagmaFoundation/Magma) - Brake EssentialsX Code([See The Warning](https://essentialsx.net/downloads.html)) and also [Abused log4j bug](https://pixelmonmod.com/viewtopic.php?f=5&t=29799&p=210147)
     * [CatServer](https://github.com/Luohuayu/CatServer) - [Breaking license restrictions](https://github.com/Luohuayu/FoxServer/issues/7#issuecomment-1100009357).
-     * [NogyangForge](https://github.com/GAME-CLI-SRV-DEV/NogyangForge) - added Geyser-Neoforge 2.3.0 Support + Floodgate-Core 2.2.3 and Ultimately Modified Bukkit API to Support Mods Properly. it count as Same Reason with purpur! 
+     * [NogyangForge](https://github.com/GAME-CLI-SRV-DEV/NogyangForge) - added Geyser-Neoforge 2.3.0 Support + Floodgate-Core 2.2.3 and Ultimately Modified Bukkit API to Support Mods Properly. but still, it count as Same Reason with purpur. 
 * [PolyMC](https://github.com/PolyMC/PolyMC) - Common sense and decency? [Never heard of her](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee).
 * [Songoda](https://songoda.com/marketplace) - We still tell tales of one of the most sketchy plugin marketplaces.
 * [Yooniks](https://www.mc-market.org/members/126711/) - If you feel like you have too much money and you are looking
