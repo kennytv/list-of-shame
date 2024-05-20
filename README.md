@@ -19,11 +19,9 @@ A non-exhaustive list of dank projects.
 * [Yatopia](https://github.com/YatopiaMC/Yatopia), [Mirai](https://github.com/etil2jz/Mirai) - *[Ouch](https://github.com/kennytv/Yaptapia)*.
 * Hybrid Servers (Forge/Something else + Bukkit) - Servers that combine
   two incompatible APIs and break them both in the process.
+    * [MagmaMC](https://github.com/MagmaFoundation/Magma) - Brake EssentialsX Code([See The Warning](https://essentialsx.net/downloads.html)) and also [Abused log4j bug](https://pixelmonmod.com/viewtopic.php?f=5&t=29799&p=210147)
     * [CatServer](https://github.com/Luohuayu/CatServer) - [Breaking license restrictions](https://github.com/Luohuayu/FoxServer/issues/7#issuecomment-1100009357).
-    * [Mohist](https://github.com/MohistMC/Mohist) - [Swapped Essentials' plugin jar](https://github.com/MohistMC/Mohist/blob/70a303f4d02e9480cc5472c1c26f7d9cb6560732/src/fmllauncher/java/com/mohistmc/AutoDeletePlugins.java#L20-L22)
-      after trying to [submit a PR](https://github.com/EssentialsX/Essentials/pull/3580) to Essentials to fix their own
-      end of the Bukkit API. *Then* tried to turn [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html)
-      regarding security concerns [into an ad](https://github.com/EssentialsX/Website/pull/44).
+     * [NogyangForge](https://github.com/GAME-CLI-SRV-DEV/NogyangForge) - added Geyser-Neoforge 2.3.0 Support + Floodgate-Core 2.2.3 and Ultimately Modified Bukkit API to Support Mods Properly. it count as Same Reason with purpur! 
 * [PolyMC](https://github.com/PolyMC/PolyMC) - Common sense and decency? [Never heard of her](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee).
 * [Songoda](https://songoda.com/marketplace) - We still tell tales of one of the most sketchy plugin marketplaces.
 * [Yooniks](https://www.mc-market.org/members/126711/) - If you feel like you have too much money and you are looking
@@ -41,10 +39,11 @@ A non-exhaustive list of dank projects.
   with [pm2 Process Manager](https://pm2.io/)).
 * [SunLight](https://www.spigotmc.org/resources/sunlight.67733/) - Taking RGB chat formatting to another level, parsing hex codes in
   *other plugins'* commands with the only way around that being
-  to [use their library to convert them back](https://www.spigotmc.org/threads/sunlight.374716/page-39#post-4124177).
+  to [use their library to convert them back](https://www.spigotmc.org/threads/sunlight.374716/page-39#post-4124177). (bro just use MiniMessage)
 * [ProVotes](https://www.spigotmc.org/resources/provotes.23672/) - Premium in
   the [least premium way possible](https://github.com/kennytv/list-of-shame/issues/77).
-* Purpur - What if someone made a fork instead of just creating plugins doing the same things?
+* [Purpur](https://github.com/PurpurMC/Purpur) - What if someone made a fork instead of just creating plugins doing the same things?
+* [NogyangSpigot](https://github.com/GAME-CLI-SRV-DEV/NogyangSpigot) - Same Reason With Purpur.
 * [ClearLagg](https://www.spigotmc.org/resources/clearlagg.68271/) - Causes more lag than it removes and doesn't even know its own name.
 * [gitmoji](https://github.com/carloscuesta/gitmoji) - Using emojis on commit messages provides an easy way of
   identifying the purpose or intention of a commit with only looking at the emojis used... as long as you can learn
@@ -63,7 +62,7 @@ A non-exhaustive list of dank projects.
 * [Retrooper, again](https://github.com/kennytv/list-of-shame/pull/67)
 * [The Duper Trooper](https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg) - Clickbait YouTube channel that "leaks"
   often outdated exploits and encourages bad habits around security issues.
-* [kennytv](https://www.twitch.tv/kennytvn) - German streamer who has repeatedly failed to meet streaming obligations
+* [kennytv](https://www.twitch.tv/kennytvn) - German streamer who has repeatedly failed to meet streaming obligations, and works on [ViaVersion](https://github.com/ViaVersion/ViaVersion), which Continuously Allows "Evil" to Exist.
 * [alexisl315](https://www.spigotmc.org/members/190298/) - Your go-to dev for so bad it's funny Skript recreations of
   popular plugins.
 
@@ -74,7 +73,7 @@ This section is the only part of this page you should *actually* take somewhat s
 * "Super optimized all-in-one server" alternatives: The most performant AND properly stable will likely always be Paper.
     * Info: <https://github.com/kennytv/Yaptapia> (not necessarily bound to Yatopia)
 * "Hybrid" (Forge/something else + Bukkit) server
-  info/alternatives: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html).
+  info/alternatives: Info: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html), [Essentials' Downloads](https://essentialsx.net/downloads), Alternative: [SpongeForge](www.Spongepowered.com).
 * Anti-lag plugin alternative setup and info: <https://www.spigotmc.org/threads/283181/>
   and <https://www.spigotmc.org/threads/283181/page-20#post-3684550>
 * Dupe fixer alternative: Simply use Paper (not one of the cursed forks as mentioned above) and stay on the latest version of Minecraft
