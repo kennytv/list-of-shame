@@ -65,6 +65,7 @@ A non-exhaustive list of dank projects.
 * [kennytv](https://www.twitch.tv/kennytvn) - German streamer who has repeatedly failed to meet streaming obligations, and works on [ViaVersion](https://github.com/ViaVersion/ViaVersion), which Continuously Allows "Evil" to Exist.
 * [alexisl315](https://www.spigotmc.org/members/190298/) - Your go-to dev for so bad it's funny Skript recreations of
   popular plugins.
+[SpottedLeaf](https://github.com/spottedleaf)- https://github.com/kennytv/list-of-shame/commit/8f636460d99dfb5d299326b015b491c04c009e7c
 
 ## Software Alternatives / Info Threads
 
