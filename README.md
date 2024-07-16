@@ -4,6 +4,8 @@ https://kennytv.github.io/list-of-shame
 
 A non-exhaustive list of dank projects.
 
+* Democratic Federal Republic Of Craftbukkit and SpongeVanilla - Oh No They Formed the Micronation to conquer the world, we are all gonna die by Plugin/Ore Nukes
+* Outfit8TSB - The Lead Dev of NBM(Become BM) and Radioactive
 * [#saveminecraft](https://youtu.be/wXQoH4IQGMM)
 * 1.8 - Has more exploits and security issues than [days it is old](https://howoldisminecraft188.today/).
 * 1.7 - Like 1.8 but worse and [even older](https://howoldisminecraft1710.today/).
@@ -16,16 +18,20 @@ A non-exhaustive list of dank projects.
 * [StellarDev](https://stellardev.org/), Aside from the usual closed-source Spigot
   forks, get paid to steal code without
   attribution, [bar a little slip up...](https://github.com/NFT-Worlds/Server/blob/4f7bc3329aadac0667b8bb8d6d384558566af6ff/patches/server/0046-Async-Entities.patch#L238)<!-- Even more ironic if you look at who this was made for -->
-* [Yatopia](https://github.com/YatopiaMC/Yatopia), [Mirai](https://github.com/etil2jz/Mirai) - *[Ouch](https://github.com/kennytv/Yaptapia)*.
-* Hybrid Servers (Forge/Something else + Bukkit) - Servers that combine
+* Ohioan Server Softwares that goes to Ohio way
+  * [Yatopia](https://github.com/YatopiaMC/Yatopia), [Mirai](https://github.com/etil2jz/Mirai) - *[Ouch](https://github.com/kennytv/Yaptapia)*.
+  * [Purformance](https://github.com/YatopiaMC/Yatopia) - the most Ohioan Server Software Ever Born, it is unholy. it's worse than Normal.
+  * [Radioactive](https://github.com/GAME-CLI-SRV-DEV/Radioactive.git) - You Can't Combine more Implementations, You are going to be fat like Yatopia. Wait, did the dev just formed a country try to boycott Convention Of International Endangered Species Of Wild Fauna and Flora Of Washington District Of Columbia By Combining all of Bukkit? Did They Use Towny or Nations to govern it? Well, Too bad! GO Outside To Protest about CITES. CITES Will Not Listen and Fubao will not return to korea. That's the Law, Deal With It and shut up. womp womp :skull:
+ * Hybrid Servers (Forge/Something else + Bukkit) - Servers that combine
   two incompatible APIs and break them both in the process.
-    * [MagmaMC](https://github.com/MagmaFoundation/Magma) - Brake EssentialsX Code([See The Warning](https://essentialsx.net/downloads.html)) and also [Abused log4j bug](https://pixelmonmod.com/viewtopic.php?f=5&t=29799&p=210147)
+    * [Magma Foundation](https://github.com/MagmaFoundation/Magma) - Brake EssentialsX Code([See The Warning](https://essentialsx.net/downloads.html)) and also [Abused log4j bug](https://pixelmonmod.com/viewtopic.php?f=5&t=29799&p=210147)
     * [CatServer](https://github.com/Luohuayu/CatServer) - [Breaking license restrictions](https://github.com/Luohuayu/FoxServer/issues/7#issuecomment-1100009357).
      * [NogyangForge](https://github.com/GAME-CLI-SRV-DEV/NogyangForge) - added Geyser-Neoforge 2.3.0 Support + Floodgate-Core 2.2.3 and Ultimately Modified Bukkit API to Support Mods Properly. but still, it count as Same Reason with purpur. 
 * [PolyMC](https://github.com/PolyMC/PolyMC) - Common sense and decency? [Never heard of her](https://github.com/PolyMC/PolyMC/commit/ccf282593dcdbe189c99b81b8bc90cb203aed3ee).
 * [Songoda](https://songoda.com/marketplace) - We still tell tales of one of the most sketchy plugin marketplaces.
 * [Yooniks](https://www.mc-market.org/members/126711/) - If you feel like you have too much money and you are looking
   for closed-source forks of Bungee/Spigot, look no further.
+* BadBird5907 - You Cant Just Go to random pull requests to get a free taco, if you want taco then go buy with your money at your local shop.
 * [Kangarko](https://github.com/kangarko) - Advertising genius behind paid plugin-courses.
     - Latest victim of his blame: [All of SpigotMC](https://www.spigotmc.org/threads/478408/)
 * [EpicWorldGenerator](https://www.spigotmc.org/resources/epicworldgenerator.8067/) - Because it sure is worth spending
@@ -65,7 +71,7 @@ A non-exhaustive list of dank projects.
 * [kennytv](https://www.twitch.tv/kennytvn) - German streamer who has repeatedly failed to meet streaming obligations, and works on [ViaVersion](https://github.com/ViaVersion/ViaVersion), which Continuously Allows "Evil" to Exist.
 * [alexisl315](https://www.spigotmc.org/members/190298/) - Your go-to dev for so bad it's funny Skript recreations of
   popular plugins.
-* [SpottedLeaf](https://github.com/spottedleaf)- resolved [this](https://github.com/kennytv/list-of-shame/issues/46) by [this](https://github.com/kennytv/list-of-shame/commit/8f636460d99dfb5d299326b015b491c04c009e7c)
+* [SpottedLeaf](https://github.com/spottedleaf) - resolved [this](https://github.com/kennytv/list-of-shame/issues/46) by [this](https://github.com/kennytv/list-of-shame/commit/8f636460d99dfb5d299326b015b491c04c009e7c)
 
 ## Software Alternatives / Info Threads
 
