@@ -35,6 +35,7 @@ A non-exhaustive list of dank projects.
     * Also [based on code directly stolen from a free mod](https://www.reddit.com/r/admincraft/comments/km185p/epic_world_generator_is_based_almost_entirely_on/) ([Realistic World Gen](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3))
 * [WorldQL](https://www.worldql.com/posts/2021-08-worldql-scalable-minecraft/) - A prime example of the power of
   advertising, vastly blown out of proportion despite countless 🚩.
+* [Leaf](https://github.com/Winds-Studio/Leaf) - Optimizing already fast code by [making it 10x slower](https://github.com/Winds-Studio/Leaf/blob/7eaacd480e87a7faaab93836956df0a8a20fa3b8/patches/server/0134-Optimize-Entity-distanceToSqr.patch#L23) (not to be confused with the also dumb Spottedleaf)
 * [EntityTrackerFixer](https://github.com/Esmorall/EntityTrackerFixer) - Minecraft tracks alot of entities - so let's
   just not do that.
 * [PM2](https://www.spigotmc.org/members/pm2.597961/) - 10/10 review and resource bumping (not to be confused
